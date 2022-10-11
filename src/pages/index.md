@@ -18,11 +18,11 @@ main:
   description: मैं इसे भारत के लोगों तक पहुंचाना चाहता हूं!
   image1:
     alt: मैं इसे भारत के लोगों तक पहुंचाना चाहता हूं!
-    image: /img/products-grid3.jpg
+    image: /img/blog-index.jpg
   image2:
     alt: मैं इसे भारत के लोगों तक पहुंचाना चाहता हूं!
     image: /img/products-grid2.jpg
   image3:
     alt: मैं इसे भारत के लोगों तक पहुंचाना चाहता हूं!
-    image: /img/products-grid1.jpg
+    image: /img/home-jumbotron.jpg
 ---
