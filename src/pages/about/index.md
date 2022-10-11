@@ -1,19 +1,14 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: 無限に加速する現役女子大生Idol
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+　ジュネーブ近郊の研究所CERNにある陽子加速器から打ち出されたニュートリノが、イタリアのグラン・サッソの地下トンネルにあるOPERA検出器で観測されている。最近、そのニュートリノが光より速いことを示す結果が得られたとして関心を集めている。確かなことは今後の追試を待つしかないが、ここではそれとは別に、光の速さを超える超光速の信号が通信に利用できれば、本当に因果律が破れるのかを議論してみたい。
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+　通常の解釈では、相対性理論は、物体を光速を超えて加速することを不可能だとしている。しかし、始めから光より速い物質の存在を否定してはいない。ただし、光より速い物質が通常の物質と影響を及ぼし合うならば、過去と未来が逆転して、結果が原因に先行する、つまり因果律が破れるという。でも、「光速を超えたとしても、通信の信号は常に未来に向かうものだから、過去に影響を及ぼせるはずがない」と考える人もいるようである。また、相対性理論に詳しい人なら、「別に光速を超えなくても、相対性理論では『同時性の破れ』が起こって、あちこちで時間が乱れているので、光速を超えて初めて変なことが起こるわけでもあるまい」と思う人もあるかもしれない。しかし、そうではない。超光速通信ができれば過去に信号が送れることを簡単な計算で示してみよう。
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+　超光速通信は粒子のようなものを飛ばして行うとする。この粒子が光速*ｃ* よりも大きい速度*Ｖ* を持つとする。この速度*Ｖ* の粒子を信号として発射する送信機があるとする。もちろん受信機も必要である。さらにロケットが１台必要である。ロケットは無人でよい。まず、送信機と受信機を２台ずつ用意する。そして、受信機１台と送信機１台をロケットに搭載して打ち上げる。残りの１セットは地上に残す。このロケットは強力で光速に近いスピードまで加速できるとする。打ち上げ後、ロケットが十分に速いスピード（*ｖ* とする）まで加速したら、ロケットの速さを一定にして、地球から遠ざかるロケットに向けて超光速の信号を送る。ロケット側は信号を受信すると、ただちに（自動的に）その信号をそのまま地球に送り返す。この時は、ロケットに搭載されている超光速発信機を使う。その信号を地球で受信する。やるのはこれだけのことである。地球とロケットの間で通信するのが目的ではない。ロケットを中継局として、地球と地球の間で通信することに注意してほしい。\[1]
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+<﻿p></p>
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+\[﻿1]<http://seiten.mond.jp/gt37/superlumi.htm>
