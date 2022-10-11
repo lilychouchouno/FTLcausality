@@ -244,5 +244,3 @@ collections:
                   },
                 ],
             }
-            fields:
-              - { name: <fieldname>, label: <fieldlabel>, widget: color }
